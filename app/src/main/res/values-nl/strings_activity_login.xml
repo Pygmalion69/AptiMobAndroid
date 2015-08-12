@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Wachtwoord</string>
+    <string name="action_sign_in_register"><b>Aanmelden</b> of registreren</string>
+    <string name="action_sign_in">Aanmelden</string>
+    <string name="menu_forgot_password">Nieuw wachtwoord opvragen</string>
+    <string name="menu_register_new">Nieuwe gebruiker registreren</string>
+    <string name="login_progress_signing_in">Bezig met aanmelden&#8230;</string>
+    <string name="error_invalid_email">Omgeldig e-mailadres</string>
+    <string name="error_invalid_password">Wachtwoord is te kort</string>
+    <string name="error_incorrect_password">Wachtwoord is onjuist</string>
+    <string name="error_field_required">Dit veld is vereist</string>
+
+</resources>

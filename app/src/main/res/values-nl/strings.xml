@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OproepKracht</string>
+    <string name="progress_create_account">Nieuw account aanmaken…</string>
+    <string name="Available">Beschikbaar</string>
+    <string name="Occupied">Bezet</string>
+    <string name="UserCurrentStatus">Uw huidige status is:</string>
+    <string name="AddGmailAccount">Gmail-account toevoegen</string>
+    <string name="QuestionConfigureGmail">Om notificaties van OproepKracht te ontvangen is een Gmail-account nodig. Wilt u er nu een configureren?</string>
+    <string name="Yes">Ja</string>
+    <string name="No">Nee</string>
+    <string name="Availability">Beschikbaarheid</string>
+    <string name="title_activity_messages">Berichten</string>
+    <string name="title_activity_message_detail">Bericht</string>
+    <string name="Messages">Berichten</string>
+    <string name="From">Van:</string>
+    <string name="To">Aan:</string>
+    <string name="Subject">Onderwerp:</string>
+    <string name="Reply">Beantwoorden</string>
+    <string name="Send">Verzenden</string>
+    <string name="message_sent">Bericht Verzonden</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_new_message">Nieuw Bericht</string>
+    <string name="scenarios">Scenario\'s</string>
+
+</resources>
